@@ -1,0 +1,100 @@
+body {
+	background: url(background.png) no-repeat top fixed;
+	background-size: cover;
+	padding-top: 0;
+	margin: 0;
+}
+
+#first{
+	margin-left: 80px;
+	width:80%;
+	height:10%;
+	background-color: pink;
+overflow: hidden;
+padding: 10px;
+}
+#ini {
+	background-color: grey;
+	padding-top: 10px;
+
+}
+
+
+	
+	
+	
+.para
+{
+	width:80%;
+
+}
+#second{
+
+	width:80%;
+	height:30%;
+	background-color: orange;
+	padding: 10px;
+margin-left: 80px;
+margin-top: 30px;
+
+}
+
+
+
+#third{
+	width:80%;
+	height:30%;
+	background-color: lightblue;
+margin-left: 80px;
+margin-top: 30px;
+padding: 10px;
+}
+
+#start{
+
+padding-top: 500px;
+text-align: center;
+color: white;
+font-size: 2em;
+
+}
+#image{
+	position: relative;
+	left:20px;
+	width:%;
+}
+/*.abc{
+position:absolute;
+bottom:20px;
+left:30 px;
+color:black;
+}
+.abc{
+position:absolute;
+bottom:20px;
+left:30 px;
+color:black;
+}
+.abc{
+position:absolute;
+bottom:20px;
+left:30 px;
+color:black;
+}
+.abc{
+position:absolute;
+bottom:20px;
+left:30 px;
+color:black;
+}
+.abc{
+position:absolute;
+bottom:20px;
+left:30 px;
+color:black;
+}
+*/
+footer {
+	text-align: center;
+	background-color: red;
+}
